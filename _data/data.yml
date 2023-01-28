@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Ben Doe
-    tagline: Full Stack Developer
+    name: Ben Ande
+    tagline: Java Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ben@webjeda.com
+    email: biniama1234@gmail.com
     phone: 012 345 6789
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: bennycas
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -33,9 +33,9 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Professinal
 
-        - idiom: French
+        - idiom: Amharic
           level: Professional
 
         - idiom: Spanish
@@ -56,6 +56,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      Learning to code.
+      
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -200,7 +202,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 18%
 
       - name: Javascript & jQuery
         level: 98%
